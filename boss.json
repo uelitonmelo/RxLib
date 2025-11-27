@@ -3,8 +3,8 @@
 	"description": "",
 	"version": "1.0.0",
 	"homepage": "",
-	"mainsrc": "./src",
-        "paths": ["./src"],
+	"mainsrc": "src",
+        "paths": ["./modules/rxlib/src"],
 	"projects": [],
 	"dependencies": {}
 }
